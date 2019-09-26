@@ -1,0 +1,27 @@
+{
+  "name": "learninggulpandnpm",
+  "version": "1.0.0",
+  "description": "learning npm with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "gulp",
+    "taskrunning",
+    "import",
+    "export"
+  ],
+  "author": "Kahani",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-postcss": "^8.0.0"
+  }
+}
